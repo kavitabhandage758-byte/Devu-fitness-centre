@@ -1,0 +1,6 @@
+{
+  "name": "Devu Fitness Center",
+  "description": "Premier gym and fitness center in Gadag, Karnataka. Features strength training, personal coaching, aerobics, girls gym, yoga, BMI calculator, and direct WhatsApp enquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
